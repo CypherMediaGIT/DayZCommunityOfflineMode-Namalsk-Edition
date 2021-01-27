@@ -10,8 +10,8 @@ This is UNOFFICIAL, so don't blame the DayZ development team if this is not work
 # Important Warning
 
 You Must Have Namalsk Island and Namalsk Survival mods downloaded and Installed to play this Mod .. The mod folders you need to play Namalsk is not included with this download.
-To download Namalsk Island please visit the steam store [HERE](https://steamcommunity.com/sharedfiles/filedetails/?id=2289456201)
-To download Namalsk Survival please visit the steam store [HERE](https://steamcommunity.com/sharedfiles/filedetails/?id=2289461232)
+* To download Namalsk Island please visit the steam store [HERE](https://steamcommunity.com/sharedfiles/filedetails/?id=2289456201)
+* To download Namalsk Survival please visit the steam store [HERE](https://steamcommunity.com/sharedfiles/filedetails/?id=2289461232)
 
 # Info for server owners & mappers
 There is now a wiki page available on how to use the community offline mode to spawn map objects on your server or mission you are working on: [Add custom objects to your server or mission](https://github.com/Arkensor/DayZCommunityOfflineMode/wiki/Add-custom-objects-to-your-server-or-mission)
