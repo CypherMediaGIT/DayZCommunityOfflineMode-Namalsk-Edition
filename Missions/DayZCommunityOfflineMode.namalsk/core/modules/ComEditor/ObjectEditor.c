@@ -208,11 +208,11 @@ class ObjectEditor extends Module
 		}
 		*/
 
-		auto exportFile = OpenFile( "$saves:COMObjectEditorSave.json", FileMode.WRITE );
+		auto exportFile = OpenFile( "$saves:COMObjectEditorSaveNamalsk.json", FileMode.WRITE );
 
         if( !exportFile )
         {
-            COM_Message( "Error writing COMObjectEditorSave.json. Current changes could not NOT be saved!!!" );
+            COM_Message( "Error writing COMObjectEditorSaveNamalsk.json. Current changes could not NOT be saved!!!" );
             return;
         }
 
@@ -232,9 +232,9 @@ class ObjectEditor extends Module
 
         CloseFile( exportFile )
 
-		COM_Message( "Saved objects to COMObjectEditorSave.json (User/Documents/DayZ)." );
+		COM_Message( "Saved objects to COMObjectEditorSaveNamalsk.json (User/Documents/DayZ)." );
 //		JsonFileLoader< SceneSaveST >.JsonSaveFile( BASE_SCENE_DIR + "\\" + "latest.json", scene );
-//		JsonFileLoader< SceneSaveST >.JsonSaveFile( "$saves:COMObjectEditorSave.json", scene );
+//		JsonFileLoader< SceneSaveST >.JsonSaveFile( "$saves:COMObjectEditorSaveNamalsk.json", scene );
 	}
 
 	void LoadScene()
@@ -242,7 +242,7 @@ class ObjectEditor extends Module
 		ref SceneSaveST scene = new SceneSaveST();
 
 //		JsonFileLoader<SceneSaveST>.JsonLoadFile( BASE_SCENE_DIR + "\\" + "latest.json", scene );
-		JsonFileLoader<SceneSaveST>.JsonLoadFile( "$saves:COMObjectEditorSave.json", scene );
+		JsonFileLoader<SceneSaveST>.JsonLoadFile( "$saves:COMObjectEditorSaveNamalsk.json", scene );
 
 		foreach( auto param : scene.m_SceneObjects )
 		{

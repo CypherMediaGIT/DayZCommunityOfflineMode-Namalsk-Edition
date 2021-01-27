@@ -17,7 +17,7 @@ To download Namalsk Survival please visit the steam store [HERE](https://steamco
 There is now a wiki page available on how to use the community offline mode to spawn map objects on your server or mission you are working on: [Add custom objects to your server or mission](https://github.com/Arkensor/DayZCommunityOfflineMode/wiki/Add-custom-objects-to-your-server-or-mission)
 
 # Installation:
-Download [this](https://github.com/CypherMediaGIT/DayZCommunityOfflineMode-Namalsk-Edition/releases/download/1.0/NamalskCommunityOfflineMode.zip) zip archive.  
+Download [this](https://github.com/CypherMediaGIT/DayZCommunityOfflineMode-Namalsk-Edition/releases/download/1.0a/NamalskCommunityOfflineMode.zip) zip archive.  
 Make sure you are on the latest `STABLE` or `EXPERIMENTAL` version of the game.
 
 Unpack and Place the ```DayZCommunityOfflineMode.namalsk``` folder inside your ```Missions``` folder in the DayZ game directory (```For example: C:\Program Files (x86)\Steam\steamapps\common\DayZ```).  
