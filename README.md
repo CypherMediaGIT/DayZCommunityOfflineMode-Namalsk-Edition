@@ -1,4 +1,4 @@
-# DayZCommunityOfflineMode Namalsk Edition 1.3
+# DayZCommunityOfflineMode Namalsk Edition 1.0a
 
 **Thank you to Arkensor for his Mod DayZCommunityOffline Mode**
 **For without his Mod this would not exsit**  
